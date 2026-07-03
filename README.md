@@ -3,7 +3,7 @@
 * Autor: Aimar Rollán-González | Investigador independiente y artista transmedia
 * ORCID: https://orcid.org/0009-0005-2969-1006
 * Disponibilidad: https://github.com/Aimarus22/Poepydroid
-* Fecha: Jun 2025
+* Fecha: Jul 2025
 ---
 **Abstract:**
 Una instalación transmedia donde la física estadística se encuentra con el abismo de la memoria. Aquí, la verdad de la termodinámica se codifica en poesía algorítmica y neuronas artificiales.
